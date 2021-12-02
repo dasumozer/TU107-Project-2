@@ -1,12 +1,15 @@
-**# Online Resume**
+# Online Resume
 
 ![6wKMrz.jpg](https://sv1.picz.in.th/images/2021/11/26/6wKMrz.jpg)
 
-## Nutcha Srilachai
-## Contact
-### Phone
+***Nutcha Srilachai***
+### Contact
+**Phone**
+
 0883547475
-### E-mail
+
+**E-mail**
+
 nutcha.sril@dome.tu.ac.th
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
