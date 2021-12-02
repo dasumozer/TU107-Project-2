@@ -28,7 +28,7 @@
 
 ## ***Achievement***
 
-* **2020** Silver Medal in Final Project Presentation of Science Math Technology and Environment (SMTE)
+* **2020** Silver Medal in Presentation of Science Math Technology and Environment (SMTE) Final Project
 
 * **2019** Bronze Medal in Thai Young Physicists' Tournament (TYPT)
 
