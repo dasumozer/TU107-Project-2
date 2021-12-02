@@ -42,6 +42,6 @@
 
 * **2021** Listening Skills Workshop Attendee
 
-* **2019** Team Treasurer in School Sports Day
+* **2019** Team Treasurer on School Sports Day
 
 * **2018** Thai Young Physicists' Tournament (TYPT) Attendee
