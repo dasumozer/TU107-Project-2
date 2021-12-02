@@ -1,12 +1,13 @@
-## Online Resume
+# Online Resume
 
 ![6wKMrz.jpg](https://sv1.picz.in.th/images/2021/11/26/6wKMrz.jpg)
 
-## You can use the [editor on GitHub](https://github.com/dasumozer/tu107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Nutcha Srilachai
+## Contact
+### Phone
+0883547475
+### E-mail
+nutcha.sril@dome.tu.ac.th
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
